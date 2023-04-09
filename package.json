@@ -50,7 +50,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "5.0.0",
+    "gh-pages": "^5.0.0",
     "openssl": "^2.0.0"
   }
 }
