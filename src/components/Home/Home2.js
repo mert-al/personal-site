@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/mert.jpg";
+import myImg from "../../Assets/mertç.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and SQL. </b>
+                <b className="purple"> C#, Python, Php, Javascript and SQL. </b>
               </i>
               <br />
               <br />

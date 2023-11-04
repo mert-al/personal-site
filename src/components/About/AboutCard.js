@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Mert Ali Cetin </span>
             from <span className="purple"> Istanbul, Turkey.</span>
-            <br />I am a 4th-year student continuing my undergraduate education in Computer Engineering at Halic University and I will graduate this summer.
+            <br />I graduated from Halic University. I have professionel experience c#, Python, Php. I worked Poland and Turkey about the software development. 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
